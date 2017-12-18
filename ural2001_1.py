@@ -1,4 +1,4 @@
-# -*- config: utf-8 -*-
+# -*- coding: utf-8 -*-
 
 a1,b1 = [int(num) for num in input().split()]
 a2,b2 = [int(num) for num in input().split()]
